@@ -1,0 +1,12 @@
+UserID: 1789079780 | Time: 2024-07-02 16:39:26.264925 | Command: /bgmi | Target: 20.235.53.165 | Port: 10444 | Time: 150
+Username: @FIGHTER_CONFIG
+Target: 20.235.53.165
+Port: 10444
+Time: 150
+
+UserID: 1789079780 | Time: 2024-07-02 16:55:15.231459 | Command: /bgmi | Target: 20.235.146.69 | Port: 20079 | Time: 150
+Username: @FIGHTER_CONFIG
+Target: 20.235.146.69
+Port: 20079
+Time: 150
+
